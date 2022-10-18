@@ -1,0 +1,33 @@
+[ {
+  "nome" : "Mauricio ",
+  "sobrenome" : "de Sousa",
+  "nacionalidade" : "Brasileiro"
+}, {
+  "nome" : "Monteiro ",
+  "sobrenome" : "Lobato",
+  "nacionalidade" : "Brasileiro"
+}, {
+  "nome" : "Machado",
+  "sobrenome" : "de Assis",
+  "nacionalidade" : "Brasileiro"
+}, {
+  "nome" : "Jose",
+  "sobrenome" : "de Alencar",
+  "nacionalidade" : "Brasileiro"
+}, {
+  "nome" : "Clarisse",
+  "sobrenome" : "Lispector",
+  "nacionalidade" : "Ucrania"
+}, {
+  "nome" : "JK",
+  "sobrenome" : "Rowling",
+  "nacionalidade" : "Britanica"
+}, {
+  "nome" : "Agatha ",
+  "sobrenome" : "Christie",
+  "nacionalidade" : "Britanica"
+}, {
+  "nome" : "Marry",
+  "sobrenome" : "Shelley",
+  "nacionalidade" : "Britanica"
+} ]

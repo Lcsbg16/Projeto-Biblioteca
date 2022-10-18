@@ -1,0 +1,509 @@
+[ {
+  "dataEmprestimo" : [ 2022, 10, 17 ],
+  "dataPrevistaDevolucao" : [ 2022, 11, 1 ],
+  "dataDevolucao" : null,
+  "exemplar" : {
+    "codigo" : 1,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "livro" : {
+      "codigo" : 4,
+      "titulo" : "Iracema",
+      "ano" : "1850",
+      "exemplares" : [ ],
+      "autor" : [ {
+        "nome" : "Jose",
+        "sobrenome" : "de Alencar",
+        "nacionalidade" : "Brasileiro"
+      } ]
+    }
+  },
+  "leitor" : {
+    "codigo" : 1,
+    "nome" : "Lucas Barbosa",
+    "endereco" : "Rua P",
+    "telefone" : "(22) 2779-4487",
+    "prazoMaximoDevolucao" : 15
+  }
+}, {
+  "dataEmprestimo" : [ 2022, 10, 17 ],
+  "dataPrevistaDevolucao" : [ 2022, 10, 5 ],
+  "dataDevolucao" : null,
+  "exemplar" : {
+    "codigo" : 6,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "livro" : {
+      "codigo" : 4,
+      "titulo" : "Iracema",
+      "ano" : "1850",
+      "exemplares" : [ ],
+      "autor" : [ {
+        "nome" : "Jose",
+        "sobrenome" : "de Alencar",
+        "nacionalidade" : "Brasileiro"
+      } ]
+    }
+  },
+  "leitor" : {
+    "codigo" : 2,
+    "nome" : "Pedro Couto",
+    "endereco" : "Rua C",
+    "telefone" : "(22) 2779-4744",
+    "prazoMaximoDevolucao" : 15
+  }
+}, {
+  "dataEmprestimo" : [ 2022, 10, 17 ],
+  "dataPrevistaDevolucao" : [ 2022, 9, 16 ],
+  "dataDevolucao" : null,
+  "exemplar" : {
+    "codigo" : 3,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "livro" : {
+      "codigo" : 1,
+      "titulo" : "Turma da Monica",
+      "ano" : "2000",
+      "exemplares" : [ ],
+      "autor" : [ {
+        "nome" : "Mauricio ",
+        "sobrenome" : "de Sousa",
+        "nacionalidade" : "Brasileiro"
+      } ]
+    }
+  },
+  "leitor" : {
+    "codigo" : 2,
+    "nome" : "Gisella",
+    "endereco" : "Rua G",
+    "telefone" : "(44) 7781-8874",
+    "prazoMaximoDevolucao" : 30
+  }
+}, {
+  "dataEmprestimo" : [ 2022, 10, 18 ],
+  "dataPrevistaDevolucao" : [ 2022, 11, 17 ],
+  "dataDevolucao" : null,
+  "exemplar" : {
+    "codigo" : 5,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "livro" : {
+      "codigo" : 1,
+      "titulo" : "Turma da Monica",
+      "ano" : "2000",
+      "exemplares" : [ ],
+      "autor" : [ {
+        "nome" : "Mauricio ",
+        "sobrenome" : "de Sousa",
+        "nacionalidade" : "Brasileiro"
+      } ]
+    }
+  },
+  "leitor" : {
+    "codigo" : 3,
+    "nome" : "Virginia",
+    "endereco" : "Rua V",
+    "telefone" : "(44) 4771-8874",
+    "prazoMaximoDevolucao" : 30
+  }
+}, {
+  "dataEmprestimo" : [ 2022, 10, 18 ],
+  "dataPrevistaDevolucao" : [ 2022, 11, 17 ],
+  "dataDevolucao" : null,
+  "exemplar" : {
+    "codigo" : 3,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "livro" : {
+      "codigo" : 1,
+      "titulo" : "Turma da Monica",
+      "ano" : "2000",
+      "exemplares" : [ ],
+      "autor" : [ {
+        "nome" : "Mauricio ",
+        "sobrenome" : "de Sousa",
+        "nacionalidade" : "Brasileiro"
+      } ]
+    }
+  },
+  "leitor" : {
+    "codigo" : 3,
+    "nome" : "Virginia",
+    "endereco" : "Rua V",
+    "telefone" : "(44) 4771-8874",
+    "prazoMaximoDevolucao" : 30
+  }
+}, {
+  "dataEmprestimo" : [ 2022, 10, 18 ],
+  "dataPrevistaDevolucao" : [ 2022, 11, 2 ],
+  "dataDevolucao" : null,
+  "exemplar" : {
+    "codigo" : 7,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "livro" : {
+      "codigo" : 2,
+      "titulo" : "Sitio do Pica Pau Amarelo",
+      "ano" : "1980",
+      "exemplares" : [ ],
+      "autor" : [ {
+        "nome" : "Monteiro ",
+        "sobrenome" : "Lobato",
+        "nacionalidade" : "Brasileiro"
+      } ]
+    }
+  },
+  "leitor" : {
+    "codigo" : 3,
+    "nome" : "Diogo Fidelis",
+    "endereco" : "Rua C",
+    "telefone" : "(22) 2299-4744",
+    "prazoMaximoDevolucao" : 15
+  }
+}, {
+  "dataEmprestimo" : [ 2022, 10, 18 ],
+  "dataPrevistaDevolucao" : [ 2022, 11, 17 ],
+  "dataDevolucao" : null,
+  "exemplar" : {
+    "codigo" : 5,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "livro" : {
+      "codigo" : 1,
+      "titulo" : "Turma da Monica",
+      "ano" : "2000",
+      "exemplares" : [ ],
+      "autor" : [ {
+        "nome" : "Mauricio ",
+        "sobrenome" : "de Sousa",
+        "nacionalidade" : "Brasileiro"
+      } ]
+    }
+  },
+  "leitor" : {
+    "codigo" : 1,
+    "nome" : "Galeno",
+    "endereco" : "Rua G",
+    "telefone" : "(44) 7781-1425",
+    "prazoMaximoDevolucao" : 30
+  }
+}, {
+  "dataEmprestimo" : [ 2022, 10, 18 ],
+  "dataPrevistaDevolucao" : [ 2022, 11, 2 ],
+  "dataDevolucao" : null,
+  "exemplar" : {
+    "codigo" : 1,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "livro" : {
+      "codigo" : 4,
+      "titulo" : "Iracema",
+      "ano" : "1850",
+      "exemplares" : [ ],
+      "autor" : [ {
+        "nome" : "Jose",
+        "sobrenome" : "de Alencar",
+        "nacionalidade" : "Brasileiro"
+      } ]
+    }
+  },
+  "leitor" : {
+    "codigo" : 3,
+    "nome" : "Diogo Fidelis",
+    "endereco" : "Rua C",
+    "telefone" : "(22) 2299-4744",
+    "prazoMaximoDevolucao" : 15
+  }
+}, {
+  "dataEmprestimo" : [ 2022, 10, 18 ],
+  "dataPrevistaDevolucao" : [ 2022, 11, 2 ],
+  "dataDevolucao" : null,
+  "exemplar" : {
+    "codigo" : 1,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "livro" : {
+      "codigo" : 4,
+      "titulo" : "Iracema",
+      "ano" : "1850",
+      "exemplares" : [ ],
+      "autor" : [ {
+        "nome" : "Jose",
+        "sobrenome" : "de Alencar",
+        "nacionalidade" : "Brasileiro"
+      } ]
+    }
+  },
+  "leitor" : {
+    "codigo" : 1,
+    "nome" : "Lucas Barbosa",
+    "endereco" : "Rua P",
+    "telefone" : "(22) 2779-4487",
+    "prazoMaximoDevolucao" : 15
+  }
+}, {
+  "dataEmprestimo" : [ 2022, 10, 18 ],
+  "dataPrevistaDevolucao" : [ 2022, 11, 17 ],
+  "dataDevolucao" : null,
+  "exemplar" : {
+    "codigo" : 15,
+    "dataAquisicao" : [ 2022, 10, 18 ],
+    "livro" : {
+      "codigo" : 8,
+      "titulo" : "Frankenstein",
+      "ano" : "1818",
+      "exemplares" : [ {
+        "codigo" : 1,
+        "dataAquisicao" : [ 2022, 10, 17 ],
+        "livro" : {
+          "codigo" : 4,
+          "titulo" : "Iracema",
+          "ano" : "1850",
+          "exemplares" : [ ],
+          "autor" : [ {
+            "nome" : "Jose",
+            "sobrenome" : "de Alencar",
+            "nacionalidade" : "Brasileiro"
+          } ]
+        }
+      }, {
+        "codigo" : 2,
+        "dataAquisicao" : [ 2022, 10, 17 ],
+        "livro" : {
+          "codigo" : 1,
+          "titulo" : "Turma da Monica",
+          "ano" : "2000",
+          "exemplares" : [ ],
+          "autor" : [ {
+            "nome" : "Mauricio ",
+            "sobrenome" : "de Sousa",
+            "nacionalidade" : "Brasileiro"
+          } ]
+        }
+      }, {
+        "codigo" : 3,
+        "dataAquisicao" : [ 2022, 10, 17 ],
+        "livro" : {
+          "codigo" : 1,
+          "titulo" : "Turma da Monica",
+          "ano" : "2000",
+          "exemplares" : [ ],
+          "autor" : [ {
+            "nome" : "Mauricio ",
+            "sobrenome" : "de Sousa",
+            "nacionalidade" : "Brasileiro"
+          } ]
+        }
+      }, {
+        "codigo" : 4,
+        "dataAquisicao" : [ 2022, 10, 17 ],
+        "livro" : {
+          "codigo" : 1,
+          "titulo" : "Turma da Monica",
+          "ano" : "2000",
+          "exemplares" : [ ],
+          "autor" : [ {
+            "nome" : "Mauricio ",
+            "sobrenome" : "de Sousa",
+            "nacionalidade" : "Brasileiro"
+          } ]
+        }
+      }, {
+        "codigo" : 5,
+        "dataAquisicao" : [ 2022, 10, 17 ],
+        "livro" : {
+          "codigo" : 1,
+          "titulo" : "Turma da Monica",
+          "ano" : "2000",
+          "exemplares" : [ ],
+          "autor" : [ {
+            "nome" : "Mauricio ",
+            "sobrenome" : "de Sousa",
+            "nacionalidade" : "Brasileiro"
+          } ]
+        }
+      }, {
+        "codigo" : 6,
+        "dataAquisicao" : [ 2022, 10, 17 ],
+        "livro" : {
+          "codigo" : 4,
+          "titulo" : "Iracema",
+          "ano" : "1850",
+          "exemplares" : [ ],
+          "autor" : [ {
+            "nome" : "Jose",
+            "sobrenome" : "de Alencar",
+            "nacionalidade" : "Brasileiro"
+          } ]
+        }
+      }, {
+        "codigo" : 7,
+        "dataAquisicao" : [ 2022, 10, 17 ],
+        "livro" : {
+          "codigo" : 2,
+          "titulo" : "Sitio do Pica Pau Amarelo",
+          "ano" : "1980",
+          "exemplares" : [ ],
+          "autor" : [ {
+            "nome" : "Monteiro ",
+            "sobrenome" : "Lobato",
+            "nacionalidade" : "Brasileiro"
+          } ]
+        }
+      } ],
+      "autor" : [ {
+        "nome" : "Marry",
+        "sobrenome" : "Shelley",
+        "nacionalidade" : "Britanica"
+      } ]
+    }
+  },
+  "leitor" : {
+    "codigo" : 3,
+    "nome" : "Virginia",
+    "endereco" : "Rua V",
+    "telefone" : "(44) 4771-8874",
+    "prazoMaximoDevolucao" : 30
+  }
+}, {
+  "dataEmprestimo" : [ 2022, 10, 18 ],
+  "dataPrevistaDevolucao" : [ 2022, 11, 2 ],
+  "dataDevolucao" : null,
+  "exemplar" : {
+    "codigo" : 9,
+    "dataAquisicao" : [ 2022, 10, 18 ],
+    "livro" : {
+      "codigo" : 7,
+      "titulo" : "Harry Potter e a Pedro Filosofal",
+      "ano" : "1997",
+      "exemplares" : [ {
+        "codigo" : 1,
+        "dataAquisicao" : [ 2022, 10, 17 ],
+        "livro" : {
+          "codigo" : 4,
+          "titulo" : "Iracema",
+          "ano" : "1850",
+          "exemplares" : [ ],
+          "autor" : [ {
+            "nome" : "Jose",
+            "sobrenome" : "de Alencar",
+            "nacionalidade" : "Brasileiro"
+          } ]
+        }
+      }, {
+        "codigo" : 2,
+        "dataAquisicao" : [ 2022, 10, 17 ],
+        "livro" : {
+          "codigo" : 1,
+          "titulo" : "Turma da Monica",
+          "ano" : "2000",
+          "exemplares" : [ ],
+          "autor" : [ {
+            "nome" : "Mauricio ",
+            "sobrenome" : "de Sousa",
+            "nacionalidade" : "Brasileiro"
+          } ]
+        }
+      }, {
+        "codigo" : 3,
+        "dataAquisicao" : [ 2022, 10, 17 ],
+        "livro" : {
+          "codigo" : 1,
+          "titulo" : "Turma da Monica",
+          "ano" : "2000",
+          "exemplares" : [ ],
+          "autor" : [ {
+            "nome" : "Mauricio ",
+            "sobrenome" : "de Sousa",
+            "nacionalidade" : "Brasileiro"
+          } ]
+        }
+      }, {
+        "codigo" : 4,
+        "dataAquisicao" : [ 2022, 10, 17 ],
+        "livro" : {
+          "codigo" : 1,
+          "titulo" : "Turma da Monica",
+          "ano" : "2000",
+          "exemplares" : [ ],
+          "autor" : [ {
+            "nome" : "Mauricio ",
+            "sobrenome" : "de Sousa",
+            "nacionalidade" : "Brasileiro"
+          } ]
+        }
+      }, {
+        "codigo" : 5,
+        "dataAquisicao" : [ 2022, 10, 17 ],
+        "livro" : {
+          "codigo" : 1,
+          "titulo" : "Turma da Monica",
+          "ano" : "2000",
+          "exemplares" : [ ],
+          "autor" : [ {
+            "nome" : "Mauricio ",
+            "sobrenome" : "de Sousa",
+            "nacionalidade" : "Brasileiro"
+          } ]
+        }
+      }, {
+        "codigo" : 6,
+        "dataAquisicao" : [ 2022, 10, 17 ],
+        "livro" : {
+          "codigo" : 4,
+          "titulo" : "Iracema",
+          "ano" : "1850",
+          "exemplares" : [ ],
+          "autor" : [ {
+            "nome" : "Jose",
+            "sobrenome" : "de Alencar",
+            "nacionalidade" : "Brasileiro"
+          } ]
+        }
+      }, {
+        "codigo" : 7,
+        "dataAquisicao" : [ 2022, 10, 17 ],
+        "livro" : {
+          "codigo" : 2,
+          "titulo" : "Sitio do Pica Pau Amarelo",
+          "ano" : "1980",
+          "exemplares" : [ ],
+          "autor" : [ {
+            "nome" : "Monteiro ",
+            "sobrenome" : "Lobato",
+            "nacionalidade" : "Brasileiro"
+          } ]
+        }
+      } ],
+      "autor" : [ {
+        "nome" : "JK",
+        "sobrenome" : "Rowling",
+        "nacionalidade" : "Britanica"
+      } ]
+    }
+  },
+  "leitor" : {
+    "codigo" : 2,
+    "nome" : "Pedro Couto",
+    "endereco" : "Rua C",
+    "telefone" : "(22) 2779-4744",
+    "prazoMaximoDevolucao" : 15
+  }
+}, {
+  "dataEmprestimo" : [ 2022, 10, 18 ],
+  "dataPrevistaDevolucao" : [ 2022, 11, 17 ],
+  "dataDevolucao" : null,
+  "exemplar" : {
+    "codigo" : 3,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "livro" : {
+      "codigo" : 1,
+      "titulo" : "Turma da Monica",
+      "ano" : "2000",
+      "exemplares" : [ ],
+      "autor" : [ {
+        "nome" : "Mauricio ",
+        "sobrenome" : "de Sousa",
+        "nacionalidade" : "Brasileiro"
+      } ]
+    }
+  },
+  "leitor" : {
+    "codigo" : 1,
+    "nome" : "Galeno",
+    "endereco" : "Rua G",
+    "telefone" : "(44) 7781-1425",
+    "prazoMaximoDevolucao" : 30
+  }
+} ]

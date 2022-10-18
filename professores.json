@@ -1,0 +1,22 @@
+[ {
+  "codigo" : 1,
+  "nome" : "Galeno",
+  "endereco" : "Rua G",
+  "telefone" : "(44) 7781-1425",
+  "prazoMaximoDevolucao" : 30,
+  "disciplina" : "Quimica"
+}, {
+  "codigo" : 2,
+  "nome" : "Gisella",
+  "endereco" : "Rua G",
+  "telefone" : "(44) 7781-8874",
+  "prazoMaximoDevolucao" : 30,
+  "disciplina" : "Matematica"
+}, {
+  "codigo" : 3,
+  "nome" : "Virginia",
+  "endereco" : "Rua V",
+  "telefone" : "(44) 4771-8874",
+  "prazoMaximoDevolucao" : 30,
+  "disciplina" : "Geografia"
+} ]

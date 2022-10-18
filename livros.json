@@ -1,0 +1,463 @@
+[ {
+  "codigo" : 1,
+  "titulo" : "Turma da Monica",
+  "ano" : "2000",
+  "exemplares" : [ ],
+  "autor" : [ {
+    "nome" : "Mauricio ",
+    "sobrenome" : "de Sousa",
+    "nacionalidade" : "Brasileiro"
+  } ]
+}, {
+  "codigo" : 2,
+  "titulo" : "Sitio do Pica Pau Amarelo",
+  "ano" : "1980",
+  "exemplares" : [ ],
+  "autor" : [ {
+    "nome" : "Monteiro ",
+    "sobrenome" : "Lobato",
+    "nacionalidade" : "Brasileiro"
+  } ]
+}, {
+  "codigo" : 3,
+  "titulo" : "Dom Casmurro",
+  "ano" : "1870",
+  "exemplares" : [ ],
+  "autor" : [ {
+    "nome" : "Machado",
+    "sobrenome" : "de Assis",
+    "nacionalidade" : "Brasileiro"
+  } ]
+}, {
+  "codigo" : 4,
+  "titulo" : "Iracema",
+  "ano" : "1850",
+  "exemplares" : [ ],
+  "autor" : [ {
+    "nome" : "Jose",
+    "sobrenome" : "de Alencar",
+    "nacionalidade" : "Brasileiro"
+  } ]
+}, {
+  "codigo" : 5,
+  "titulo" : "Procurando o Nemo",
+  "ano" : "2000",
+  "exemplares" : [ {
+    "codigo" : 1,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "livro" : {
+      "codigo" : 4,
+      "titulo" : "Iracema",
+      "ano" : "1850",
+      "exemplares" : [ ],
+      "autor" : [ {
+        "nome" : "Jose",
+        "sobrenome" : "de Alencar",
+        "nacionalidade" : "Brasileiro"
+      } ]
+    }
+  }, {
+    "codigo" : 2,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "livro" : {
+      "codigo" : 1,
+      "titulo" : "Turma da Monica",
+      "ano" : "2000",
+      "exemplares" : [ ],
+      "autor" : [ {
+        "nome" : "Mauricio ",
+        "sobrenome" : "de Sousa",
+        "nacionalidade" : "Brasileiro"
+      } ]
+    }
+  }, {
+    "codigo" : 3,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "livro" : {
+      "codigo" : 1,
+      "titulo" : "Turma da Monica",
+      "ano" : "2000",
+      "exemplares" : [ ],
+      "autor" : [ {
+        "nome" : "Mauricio ",
+        "sobrenome" : "de Sousa",
+        "nacionalidade" : "Brasileiro"
+      } ]
+    }
+  }, {
+    "codigo" : 4,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "livro" : {
+      "codigo" : 1,
+      "titulo" : "Turma da Monica",
+      "ano" : "2000",
+      "exemplares" : [ ],
+      "autor" : [ {
+        "nome" : "Mauricio ",
+        "sobrenome" : "de Sousa",
+        "nacionalidade" : "Brasileiro"
+      } ]
+    }
+  }, {
+    "codigo" : 5,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "livro" : {
+      "codigo" : 1,
+      "titulo" : "Turma da Monica",
+      "ano" : "2000",
+      "exemplares" : [ ],
+      "autor" : [ {
+        "nome" : "Mauricio ",
+        "sobrenome" : "de Sousa",
+        "nacionalidade" : "Brasileiro"
+      } ]
+    }
+  }, {
+    "codigo" : 6,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "livro" : {
+      "codigo" : 4,
+      "titulo" : "Iracema",
+      "ano" : "1850",
+      "exemplares" : [ ],
+      "autor" : [ {
+        "nome" : "Jose",
+        "sobrenome" : "de Alencar",
+        "nacionalidade" : "Brasileiro"
+      } ]
+    }
+  } ],
+  "autor" : [ {
+    "nome" : "Mauricio ",
+    "sobrenome" : "de Sousa",
+    "nacionalidade" : "Brasileiro"
+  }, {
+    "nome" : "Machado",
+    "sobrenome" : "de Assis",
+    "nacionalidade" : "Brasileiro"
+  } ]
+}, {
+  "codigo" : 6,
+  "titulo" : "Three Blind Mice",
+  "ano" : "1950",
+  "exemplares" : [ {
+    "codigo" : 1,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "livro" : {
+      "codigo" : 4,
+      "titulo" : "Iracema",
+      "ano" : "1850",
+      "exemplares" : [ ],
+      "autor" : [ {
+        "nome" : "Jose",
+        "sobrenome" : "de Alencar",
+        "nacionalidade" : "Brasileiro"
+      } ]
+    }
+  }, {
+    "codigo" : 2,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "livro" : {
+      "codigo" : 1,
+      "titulo" : "Turma da Monica",
+      "ano" : "2000",
+      "exemplares" : [ ],
+      "autor" : [ {
+        "nome" : "Mauricio ",
+        "sobrenome" : "de Sousa",
+        "nacionalidade" : "Brasileiro"
+      } ]
+    }
+  }, {
+    "codigo" : 3,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "livro" : {
+      "codigo" : 1,
+      "titulo" : "Turma da Monica",
+      "ano" : "2000",
+      "exemplares" : [ ],
+      "autor" : [ {
+        "nome" : "Mauricio ",
+        "sobrenome" : "de Sousa",
+        "nacionalidade" : "Brasileiro"
+      } ]
+    }
+  }, {
+    "codigo" : 4,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "livro" : {
+      "codigo" : 1,
+      "titulo" : "Turma da Monica",
+      "ano" : "2000",
+      "exemplares" : [ ],
+      "autor" : [ {
+        "nome" : "Mauricio ",
+        "sobrenome" : "de Sousa",
+        "nacionalidade" : "Brasileiro"
+      } ]
+    }
+  }, {
+    "codigo" : 5,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "livro" : {
+      "codigo" : 1,
+      "titulo" : "Turma da Monica",
+      "ano" : "2000",
+      "exemplares" : [ ],
+      "autor" : [ {
+        "nome" : "Mauricio ",
+        "sobrenome" : "de Sousa",
+        "nacionalidade" : "Brasileiro"
+      } ]
+    }
+  }, {
+    "codigo" : 6,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "livro" : {
+      "codigo" : 4,
+      "titulo" : "Iracema",
+      "ano" : "1850",
+      "exemplares" : [ ],
+      "autor" : [ {
+        "nome" : "Jose",
+        "sobrenome" : "de Alencar",
+        "nacionalidade" : "Brasileiro"
+      } ]
+    }
+  }, {
+    "codigo" : 7,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "livro" : {
+      "codigo" : 2,
+      "titulo" : "Sitio do Pica Pau Amarelo",
+      "ano" : "1980",
+      "exemplares" : [ ],
+      "autor" : [ {
+        "nome" : "Monteiro ",
+        "sobrenome" : "Lobato",
+        "nacionalidade" : "Brasileiro"
+      } ]
+    }
+  } ],
+  "autor" : [ {
+    "nome" : "Agatha ",
+    "sobrenome" : "Christie",
+    "nacionalidade" : "Britanica"
+  } ]
+}, {
+  "codigo" : 7,
+  "titulo" : "Harry Potter e a Pedro Filosofal",
+  "ano" : "1997",
+  "exemplares" : [ {
+    "codigo" : 1,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "livro" : {
+      "codigo" : 4,
+      "titulo" : "Iracema",
+      "ano" : "1850",
+      "exemplares" : [ ],
+      "autor" : [ {
+        "nome" : "Jose",
+        "sobrenome" : "de Alencar",
+        "nacionalidade" : "Brasileiro"
+      } ]
+    }
+  }, {
+    "codigo" : 2,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "livro" : {
+      "codigo" : 1,
+      "titulo" : "Turma da Monica",
+      "ano" : "2000",
+      "exemplares" : [ ],
+      "autor" : [ {
+        "nome" : "Mauricio ",
+        "sobrenome" : "de Sousa",
+        "nacionalidade" : "Brasileiro"
+      } ]
+    }
+  }, {
+    "codigo" : 3,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "livro" : {
+      "codigo" : 1,
+      "titulo" : "Turma da Monica",
+      "ano" : "2000",
+      "exemplares" : [ ],
+      "autor" : [ {
+        "nome" : "Mauricio ",
+        "sobrenome" : "de Sousa",
+        "nacionalidade" : "Brasileiro"
+      } ]
+    }
+  }, {
+    "codigo" : 4,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "livro" : {
+      "codigo" : 1,
+      "titulo" : "Turma da Monica",
+      "ano" : "2000",
+      "exemplares" : [ ],
+      "autor" : [ {
+        "nome" : "Mauricio ",
+        "sobrenome" : "de Sousa",
+        "nacionalidade" : "Brasileiro"
+      } ]
+    }
+  }, {
+    "codigo" : 5,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "livro" : {
+      "codigo" : 1,
+      "titulo" : "Turma da Monica",
+      "ano" : "2000",
+      "exemplares" : [ ],
+      "autor" : [ {
+        "nome" : "Mauricio ",
+        "sobrenome" : "de Sousa",
+        "nacionalidade" : "Brasileiro"
+      } ]
+    }
+  }, {
+    "codigo" : 6,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "livro" : {
+      "codigo" : 4,
+      "titulo" : "Iracema",
+      "ano" : "1850",
+      "exemplares" : [ ],
+      "autor" : [ {
+        "nome" : "Jose",
+        "sobrenome" : "de Alencar",
+        "nacionalidade" : "Brasileiro"
+      } ]
+    }
+  }, {
+    "codigo" : 7,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "livro" : {
+      "codigo" : 2,
+      "titulo" : "Sitio do Pica Pau Amarelo",
+      "ano" : "1980",
+      "exemplares" : [ ],
+      "autor" : [ {
+        "nome" : "Monteiro ",
+        "sobrenome" : "Lobato",
+        "nacionalidade" : "Brasileiro"
+      } ]
+    }
+  } ],
+  "autor" : [ {
+    "nome" : "JK",
+    "sobrenome" : "Rowling",
+    "nacionalidade" : "Britanica"
+  } ]
+}, {
+  "codigo" : 8,
+  "titulo" : "Frankenstein",
+  "ano" : "1818",
+  "exemplares" : [ {
+    "codigo" : 1,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "livro" : {
+      "codigo" : 4,
+      "titulo" : "Iracema",
+      "ano" : "1850",
+      "exemplares" : [ ],
+      "autor" : [ {
+        "nome" : "Jose",
+        "sobrenome" : "de Alencar",
+        "nacionalidade" : "Brasileiro"
+      } ]
+    }
+  }, {
+    "codigo" : 2,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "livro" : {
+      "codigo" : 1,
+      "titulo" : "Turma da Monica",
+      "ano" : "2000",
+      "exemplares" : [ ],
+      "autor" : [ {
+        "nome" : "Mauricio ",
+        "sobrenome" : "de Sousa",
+        "nacionalidade" : "Brasileiro"
+      } ]
+    }
+  }, {
+    "codigo" : 3,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "livro" : {
+      "codigo" : 1,
+      "titulo" : "Turma da Monica",
+      "ano" : "2000",
+      "exemplares" : [ ],
+      "autor" : [ {
+        "nome" : "Mauricio ",
+        "sobrenome" : "de Sousa",
+        "nacionalidade" : "Brasileiro"
+      } ]
+    }
+  }, {
+    "codigo" : 4,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "livro" : {
+      "codigo" : 1,
+      "titulo" : "Turma da Monica",
+      "ano" : "2000",
+      "exemplares" : [ ],
+      "autor" : [ {
+        "nome" : "Mauricio ",
+        "sobrenome" : "de Sousa",
+        "nacionalidade" : "Brasileiro"
+      } ]
+    }
+  }, {
+    "codigo" : 5,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "livro" : {
+      "codigo" : 1,
+      "titulo" : "Turma da Monica",
+      "ano" : "2000",
+      "exemplares" : [ ],
+      "autor" : [ {
+        "nome" : "Mauricio ",
+        "sobrenome" : "de Sousa",
+        "nacionalidade" : "Brasileiro"
+      } ]
+    }
+  }, {
+    "codigo" : 6,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "livro" : {
+      "codigo" : 4,
+      "titulo" : "Iracema",
+      "ano" : "1850",
+      "exemplares" : [ ],
+      "autor" : [ {
+        "nome" : "Jose",
+        "sobrenome" : "de Alencar",
+        "nacionalidade" : "Brasileiro"
+      } ]
+    }
+  }, {
+    "codigo" : 7,
+    "dataAquisicao" : [ 2022, 10, 17 ],
+    "livro" : {
+      "codigo" : 2,
+      "titulo" : "Sitio do Pica Pau Amarelo",
+      "ano" : "1980",
+      "exemplares" : [ ],
+      "autor" : [ {
+        "nome" : "Monteiro ",
+        "sobrenome" : "Lobato",
+        "nacionalidade" : "Brasileiro"
+      } ]
+    }
+  } ],
+  "autor" : [ {
+    "nome" : "Marry",
+    "sobrenome" : "Shelley",
+    "nacionalidade" : "Britanica"
+  } ]
+} ]
